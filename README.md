@@ -202,6 +202,7 @@ Security improvements such as Helmet.js, JWT authentication, bcrypt hashing, sec
 
 ## Author
 
-Your Name  
+Amna Zainab Malik
+DHC-1687
 Cybersecurity Internship Project  
 2026 
